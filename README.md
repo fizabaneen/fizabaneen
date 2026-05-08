@@ -1,51 +1,48 @@
-# Hi there, I'm Fiza Baneen 👋 
+<div align="center">
+  <h1>Hi, I'm Fizza 👋</h1>
+  <p align="center">
+    <strong>Finance Student | Aspiring Web Developer | Digital Solution Architect</strong>
+  </p>
+</div>
 
-I am a **Frontend Developer** and **BS Finance & Economics student** at the University of Karachi. My work sits at the intersection of clean, hand-coded digital solutions and the evolving world of Fintech. I specialize in building responsive, user-friendly websites with a focus on minimalist and corporate aesthetics.
+<hr />
 
-### 🚀 Quick Overview
-- 🔭 I’m currently specializing in **Front-End Development** at Saylani (SMIT).
-- 🌱 Learning **Full-Stack Web Development** and **Mobile App Development**.
-- ⚡ I have a deep interest in **Fintech** and how technology transforms financial systems.
-- 🎨 My design philosophy: Clean, minimal, and functional.
+### 💡 About Me
+I am a Full-Stack Web Development trainee at Saylani Mass IT Training, currently bridging the gap between **Financial Analysis** and **Modern Web Technologies**. I specialize in building responsive, user-centric digital solutions using pure, semantic code.
 
----
-
-### 🛠️ My Toolbox
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | HTML5, CSS3, JavaScript, Python |
-| **Tools & Platforms** | Git, GitHub, VS Code |
-| **Web Design** | Responsive Web Design, Flexbox, CSS Grid |
-| **Other** | Analytical Thinking, Financial Modeling, Project Management |
+- 🎓 Currently pursuing **Finance and Economics** at the University of Karachi.
+- 💻 Passionate about **HTML5, CSS3, and JavaScript (ES6+)**.
+- 🎯 Goal: Leveraging technical expertise to build high-performance web applications.
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</p>
 
-- **[Portfolio Website](https://www.fizabaneen.com)** – My professional digital space showcasing my journey and projects.
-- **[Real Estate Landing Page](https://github.com/fizabaneen/fizza-project1)** – A responsive, high-performance landing page built with pure HTML/CSS.
-- **[Technical Documentation](https://github.com/fizabaneen/Newspaper-Article)** – A visually responsive layout with functional navigation.
-- **[Book Inventory App](https://github.com/fizabaneen/Buila-a-conidentail-email-page)** – An interactive interface for managing application directories.
+---
+
+### 🚀 Featured Projects
+- **Real Estate Landing Page** – A high-conversion, responsive layout built with semantic HTML and CSS.
+- **Personal Portfolio** – A minimal, hand-coded showcase of my digital services and projects.
+- **Task Manager App** – A functional application focusing on clean UI and JavaScript logic.
+- **Finance Ledger Tool** – Integrating financial modeling logic into a digital interface.
 
 ---
 
 ### 📊 GitHub Stats
-![Fiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=fizabaneen&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fizabaneen&layout=compact&theme=transparent)
-
----
-
-### 🤝 Let's Connect
-I am always open to collaborating on open-source projects or discussing the future of Fintech and Web Development.
-
-- **Portfolio:** [fizabaneen.com](https://www.fizabaneen.com)
-- **LinkedIn:** [linkedin.com/in/fizabaneen](https://linkedin.com/in/fizabaneen)
-- **Twitter/X:** [@fizabaneen](https://twitter.com/fizabaneen)
-- **Email:** [thefizab@gmail.com](mailto:thefizab@gmail.com)
-
----
-
 <p align="center">
-  <i>"Building the future, one line of code at a time."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=fizabaneen&show_icons=true&theme=nord" alt="Fiza's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizabaneen&layout=compact&theme=nord" alt="Top Langs" />
 </p>
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/fizabaneen](https://linkedin.com/in/fizabaneen)
+- **Portfolio**: [fizabaneen.com](https://fizabaneen.com)
