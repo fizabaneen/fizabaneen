@@ -1,14 +1,14 @@
 <div align="center">
-  <h1>Hi, I'm Fizza 👋</h1>
+  <h1>Hi, I'm Fiza Baneen </h1>
   <p align="center">
-    <strong>Finance Student | Aspiring Web Developer | Digital Solution Architect</strong>
+    <strong>Aspiring Modren Web & App Developer</strong>
   </p>
 </div>
 
 <hr />
 
 ### 💡 About Me
-I am a Full-Stack Web Development trainee at Saylani Mass IT Training, currently bridging the gap between **Financial Analysis** and **Modern Web Technologies**. I specialize in building responsive, user-centric digital solutions using pure, semantic code.
+Frontend developer with strong foundation in HTML, CSS, and responsive design. Experienced in building clean, mobile-friendly web interfaces. Currently expanding skills in JavaScript and full-stack development.
 
 - 🎓 Currently pursuing **Finance and Economics** at the University of Karachi.
 - 💻 Passionate about **HTML5, CSS3, and JavaScript (ES6+)**.
