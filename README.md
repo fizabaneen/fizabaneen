@@ -28,10 +28,8 @@ I am a Full-Stack Web Development trainee at Saylani Mass IT Training, currently
 ---
 
 ### 🚀 Featured Projects
-- **Real Estate Landing Page** – A high-conversion, responsive layout built with semantic HTML and CSS.
+
 - **Personal Portfolio** – A minimal, hand-coded showcase of my digital services and projects.
-- **Task Manager App** – A functional application focusing on clean UI and JavaScript logic.
-- **Finance Ledger Tool** – Integrating financial modeling logic into a digital interface.
 
 ---
 
