@@ -35,9 +35,9 @@ Frontend developer with strong foundation in HTML, CSS, and responsive design. E
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizabaneen&show_icons=true&theme=nord" alt="Fiza's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizabaneen&layout=compact&theme=nord" alt="Top Langs" />
+  <img src="herokuapp.com" alt="Fiza's Streak" />
 </p>
+
 
 ---
 
