@@ -1,46 +1,24 @@
-<div align="center">
-  <h1>Hi, I'm Fiza Baneen </h1>
-  <p align="center">
-    <strong>Aspiring Modren Web & App Developer</strong>
-  </p>
-</div>
+# 💫 About Me:
+Frontend developer with strong foundation in HTML, CSS, and responsive design. Experienced in building clean, mobile-friendly web interfaces. Currently expanding skills in JavaScript and full-stack development.<br><br>🎓 Currently pursuing Finance and Economics at the University of Karachi.<br>💻 Passionate about HTML5, CSS3, and JavaScript (ES6+).<br>🎯 Goal: Leveraging technical expertise to build high-performance web applications.
 
-<hr />
 
-### 💡 About Me
-Frontend developer with strong foundation in HTML, CSS, and responsive design. Experienced in building clean, mobile-friendly web interfaces. Currently expanding skills in JavaScript and full-stack development.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fizabaneen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.x.com/fizabaneen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thefizzab@gmail.com) 
 
-- 🎓 Currently pursuing **Finance and Economics** at the University of Karachi.
-- 💻 Passionate about **HTML5, CSS3, and JavaScript (ES6+)**.
-- 🎯 Goal: Leveraging technical expertise to build high-performance web applications.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=fizabaneen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=fizabaneen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fizabaneen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fizabaneen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=fizabaneen&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=fizabaneen&icon=0&color=12)](https://visitcount.itsvg.in)
 
-### 🚀 Featured Projects
-
-- **Personal Portfolio** – A minimal, hand-coded showcase of my digital services and projects.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="herokuapp.com" alt="Fiza's Streak" />
-</p>
-
-
----
-
-### 📫 Let's Connect
-- **LinkedIn**: [linkedin.com/in/fizabaneen](https://linkedin.com/in/fizabaneen)
-- **Portfolio**: [fizabaneen.com](https://fizabaneen.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
