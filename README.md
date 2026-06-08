@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend developer with strong foundation in HTML, CSS, and responsive design. Experienced in building clean, mobile-friendly web interfaces. Currently expanding skills in JavaScript and full-stack development.<br><br>🎓 Currently pursuing Finance and Economics at the University of Karachi.<br>💻 Passionate about HTML5, CSS3, and JavaScript (ES6+).<br>🎯 Goal: Leveraging technical expertise to build high-performance web applications.
+Front-End Development Intern at DevelopersHub Corporation | BS Economics & Finance Student at University of Karachi
 
 
 ## 🌐 Socials:
