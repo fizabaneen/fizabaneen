@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fizza Baneen</h1>  
 <h3 align="center">MERN Stack Developer · AI Enthusiast · Fintech-Minded Engineer</h3>
-   
+     
 <p align="center">    
   <a href="https://www.fizabeen.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
