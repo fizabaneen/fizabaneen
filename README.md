@@ -39,7 +39,7 @@ What sets me apart: I hold a **BS in Finance & Economics** from the University o
 
 ---
 
-### 🏢 Remote Developer Intern — CodeAlpha
+### 🏢 Remote Developer Intern — CodeAlpha 
 
 - Built and deployed **3 end-to-end JavaScript applications** (Music Player, Image Gallery, Calculator) with full DOM manipulation logic and event-driven state management — demonstrating strong grasp of vanilla JS before framework adoption.
 - Engineered a **dynamic Music Player** with playlist queue management, play/pause/skip controls, and real-time progress tracking, achieving smooth UI interactions through efficient `requestAnimationFrame` rendering.
