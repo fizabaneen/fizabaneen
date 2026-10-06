@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fizza Baneen</h1>    
-<h3 align="center">MERN Stack Developer · AI Enthusiast · Fintech-Minded Engineer</h3>
+<h3 align="center">MERN Stack Developer · AI Enthusiast · Fintech-Minded Engineer</h3>  
       
 <p align="center">    
   <a href="https://www.fizabeen.com" target="_blank">
